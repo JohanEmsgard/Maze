@@ -1,0 +1,16 @@
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.exe
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.deps.json
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.runtimeconfig.json
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.runtimeconfig.dev.json
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.dll
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\ref\Maze.dll
+C:\Users\emsgard.johan\Programering1\Maze\Maze\bin\Debug\net5.0\Maze.pdb
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.dll
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\ref\Maze.dll
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.pdb
+C:\Users\emsgard.johan\Programering1\Maze\Maze\obj\Debug\net5.0\Maze.genruntimeconfig.cache
