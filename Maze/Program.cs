@@ -53,6 +53,13 @@ while (room != "ute")
         }
     }
 
+    if (room == "E")
+    {
+        Console.WriteLine("Du är i rum E");
+        Console.WriteLine("Rum E eller G");
+        room = Console.ReadLine();
+    }
+
 
 }
 
