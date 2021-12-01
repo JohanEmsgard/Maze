@@ -19,6 +19,7 @@ while (room != "ute")
 
     }
 
+
         if (room == "C")
         {
             Console.WriteLine("Du är i rum C");
@@ -29,7 +30,7 @@ while (room != "ute")
         else if (room == "D")
         {
             Console.WriteLine("Du är i rum D");
-            room = Console.ReadLine();
+            string door = Console.ReadLine();
         }
 
 
