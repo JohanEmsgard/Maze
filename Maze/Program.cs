@@ -60,6 +60,13 @@ while (room != "ute")
         room = Console.ReadLine();
     }
 
+    else if (room == "F")
+    {
+        Console.WriteLine("Du är i rum F");
+        Console.WriteLine("Rum F eller A");
+        room = Console.ReadLine();
+    }
+
 
 }
 
