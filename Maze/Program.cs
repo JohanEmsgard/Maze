@@ -3,34 +3,43 @@
 System.Console.WriteLine("Du är fast i ett rum och du behöver komma ute. Dörr A eller Dör B?");
 Console.ReadLine();
 
-string door = "A";
+string room = "A";
 
-while (door != "ute")
+while (room != "ute")
 {
-    if (door == "A")
+    if (room == "A")
     {
         Console.WriteLine("Du är inne i rum A");
         Console.WriteLine("Rum C eller D?");
-        door = Console.ReadLine();
-    }
-
+        string door = Console.ReadLine();
         if (door == "C")
         {
-            Console.WriteLine("Du är i rum C");
-            Console.ReadLine();
+            room = "C";
         }
 
-        else if (door == "D")
+    }
+
+        if (room == "C")
+        {
+            Console.WriteLine("Du är i rum C");
+            System.Console.WriteLine("Rum A eller G");
+            room = Console.ReadLine();
+        }
+
+        else if (room == "D")
         {
             Console.WriteLine("Du är i rum D");
-            door = Console.ReadLine();
+            room = Console.ReadLine();
         }
 
 
-    else if (door == "B")
+    else if (room == "B")
     {
         Console.WriteLine("Du är i rum B");
-        door = Console.ReadLine();
+        Console.WriteLine("Rum E eller F");
+        room = Console.ReadLine();
     }
+
+
 }
 
