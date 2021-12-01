@@ -16,21 +16,25 @@ while (room != "ute")
         {
             room = "C";
         }
-
+        else if (door == "D")
+        {
+            room = "D";
+        }
     }
 
 
         if (room == "C")
         {
             Console.WriteLine("Du är i rum C");
-            System.Console.WriteLine("Rum A eller G");
+            Console.WriteLine("Rum A eller G");
             room = Console.ReadLine();
         }
 
         else if (room == "D")
         {
             Console.WriteLine("Du är i rum D");
-            string door = Console.ReadLine();
+            Console.WriteLine("Rum A eller H");
+            room = Console.ReadLine();
         }
 
 
